@@ -1,5 +1,5 @@
 # bigSolutionSolutions
-## Twitter sentiment analysis for tweets regarding Spanish airlines
+#### Twitter sentiment analysis for tweets regarding Spanish airlines
 
 The main goal of this project was to train a classification model able to classify each twit in three distinct groups:  ‘positive’, ’negative’ or ‘neutral’.
 
